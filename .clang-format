@@ -1,0 +1,7 @@
+BasedOnStyle: Microsoft
+AlignAfterOpenBracket: DontAlign
+AllowAllArgumentsOnNextLine: true
+BreakAfterReturnType: All
+IndentWidth: 2
+TabWidth: 2
+BinPackParameters: OnePerLine
